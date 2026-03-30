@@ -18,15 +18,15 @@ components, clothing and accessories across 6 countries.
 
 | Step | Analysis |
 |------|----------|
-| Step 0 | Environment Setup |
-| Step 1 | Data Loading (7 sheets) |
-| Step 2 | Basic Exploration |
-| Step 3 | Data Cleaning & Feature Engineering |
-| Step 4 | Key Metrics Creation |
+| Step 0 | Environment Setup ✅ |
+| Step 1 | Data Loading (7 sheets) ✅ |
+| Step 2 | Basic Exploration ✅ |
+| Step 3 | Data Cleaning & Feature Engineering ✅ |
+| Step 4 | Key Metrics Creation ✅ |
 | Step 5 | Revenue by Category ✅ |
 | Step 6 | Top 10 Products by Revenue ✅ |
-| Step 7 | Regional Performance 🔄 |
-| Step 8 | Discount Impact Analysis 🔄 |
+| Step 7 | Regional Performance ✅ |
+| Step 8 | Discount Impact Analysis ✅ |
 | Step 9 | Monthly Sales Trend 🔄 |
 | Step 10 | Profitability Analysis 🔄 |
 | Step 11 | Pareto Analysis (Top Customers) 🔄 |
@@ -49,6 +49,8 @@ components, clothing and accessories across 6 countries.
 - 💰 **Average Profit Margin: 30.3%** — healthy retail performance
 - 🏪 **Perfect 50-50 split** between B2B Resellers and B2C Internet sales
 - 🏆 **Mountain-200** series dominates — 6 of top 10 revenue products
+- - 🇦🇺 **Australia** has highest margin (33.57%) despite 3rd place revenue
+- 🚨 **Discounted orders lose $556/order** vs +$121 profit on regular orders
 
 ---
 
@@ -57,7 +59,8 @@ components, clothing and accessories across 6 countries.
 |-------|------|
 | Revenue by Product Category | `step5_revenue_by_category.png` |
 | Top 10 Products by Revenue | `step6_top_products.png` |
-
+| Regional Performance Analysis | `step7_regional_performance.png` |
+| Discount Impact Analysis | `step8_discount_impact.png` |
 ---
 
 ## 🛠️ Tools & Libraries
