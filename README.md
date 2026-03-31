@@ -27,13 +27,13 @@ components, clothing and accessories across 6 countries.
 | Step 6 | Top 10 Products by Revenue ✅ |
 | Step 7 | Regional Performance ✅ |
 | Step 8 | Discount Impact Analysis ✅ |
-| Step 9 | Monthly Sales Trend 🔄 |
-| Step 10 | Profitability Analysis 🔄 |
-| Step 11 | Pareto Analysis (Top Customers) 🔄 |
-| Step 12 | Repeat Customer Analysis 🔄 |
-| Step 13 | Correlation Heatmap 🔄 |
-| Step 14 | RFM Customer Segmentation 🔄 |
-| Step 15 | Customer Segment Labeling 🔄 |
+| Step 9 | Monthly Sales Trend ✅ |
+| Step 10 | Profitability Analysis ✅ |
+| Step 11 | Pareto Analysis (Top Customers) ✅ |
+| Step 12 | Repeat Customer Analysis ✅ |
+| Step 13 | Correlation Heatmap ✅ |
+| Step 14 | RFM Customer Segmentation ✅ |
+| Step 15 | Customer Segment Labeling ✅ |
 | Step 16 | Product Profitability Matrix 🔄 |
 | Step 17 | Discount Effectiveness 🔄 |
 | Step 18 | Cohort Analysis 🔄 |
@@ -43,24 +43,30 @@ components, clothing and accessories across 6 countries.
 
 ---
 
-## 🔍 Key Findings (So Far)
-- 🚴 **Bikes drive 86.2%** of total revenue ($94.6M out of $109.8M)
-- 🌍 **6 countries** — USA, Canada, UK, France, Australia, Germany
-- 💰 **Average Profit Margin: 30.3%** — healthy retail performance
-- 🏪 **Perfect 50-50 split** between B2B Resellers and B2C Internet sales
-- 🏆 **Mountain-200** series dominates — 6 of top 10 revenue products
-- - 🇦🇺 **Australia** has highest margin (33.57%) despite 3rd place revenue
-- 🚨 **Discounted orders lose $556/order** vs +$121 profit on regular orders
-
+## 🔍 Key Findings
+- 🚴 **Bikes drive 86.2%** of revenue ($94.6M) but only 11% margin
+- 🏅 **Accessories** have highest margin at 49.88% — hidden profit gem
+- 🌍 **Australia** delivers 33.57% margin vs USA's 7.05% despite lower revenue
+- 🚨 **Discounted orders lose $556/order** — -0.65 correlation with profit
+- 📈 **3x order volume growth** from 2017 to 2020
+- 🏆 **Loyal customers spend 5x more** than one-time buyers ($3,786 vs $775)
+- ⚠️ **2,807 At-Risk customers** avg $2,904 spend — $8.1M revenue at risk
+- 🎯 **RFM segmentation** identified 8 distinct customer segments
 ---
 
 ## 📈 Charts Generated
-| Chart | File |
-|-------|------|
-| Revenue by Product Category | `step5_revenue_by_category.png` |
-| Top 10 Products by Revenue | `step6_top_products.png` |
-| Regional Performance Analysis | `step7_regional_performance.png` |
-| Discount Impact Analysis | `step8_discount_impact.png` |
+| Step | Chart | File |
+|------|-------|------|
+| Step 5 | Revenue by Product Category | `step5_revenue_by_category.png` |
+| Step 6 | Top 10 Products by Revenue | `step6_top_products.png` |
+| Step 7 | Regional Performance Analysis | `step7_regional_performance.png` |
+| Step 8 | Discount Impact Analysis | `step8_discount_impact.png` |
+| Step 9 | Monthly Sales Trend | `step9_monthly_trend.png` |
+| Step 10 | Profitability by Category | `step10_profitability.png` |
+| Step 11 | Pareto Customer Analysis | `step11_pareto_customers.png` |
+| Step 12 | Repeat Customer Analysis | `step12_repeat_customers.png` |
+| Step 13 | Correlation Heatmap | `step13_correlation_heatmap.png` |
+| Step 15 | RFM Customer Segmentation | `step15_rfm_segments.png` |
 ---
 
 ## 🛠️ Tools & Libraries
